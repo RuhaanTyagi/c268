@@ -1,0 +1,29 @@
+    1  pwd
+    2  cd /var/log
+    3  cd ..
+    4  pwd
+    5  ls
+    6  ls -ltr
+    7  cd /
+    8  cd ~
+    9  cd ..
+   10  man ls
+   11  cd /var
+   12  ls -ls
+   13  ls -las
+   14  ls -ltrs
+   15  ls -s
+   16  ls -ls
+   17  ls -lS
+   18  inxi -Fxz
+   19  uname -a
+   20  histor > ruhaan.220916.module2
+   21  history > ruhaan.220916.module2
+   22  ls
+   23  cd ~
+   24  ls
+   25  cd c268\
+   26  cd c268
+   27  ls
+   28  cd BasicExercises/
+   29  history > ruhaan.220916.module2
